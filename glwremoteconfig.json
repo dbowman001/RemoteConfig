@@ -1,5 +1,5 @@
 {
-  "LastGeneralConference": "/general-conference/2025/04",
+  "LastGeneralConference": "/general-conference/2026/04",
   "ItemsWithVerses": [ "/scriptures/jst", "/scriptures/ot", "/scriptures/nt", "/scriptures/bofm", "/scriptures/dc-testament", "/scriptures/pgp", "/scriptures/af-poster" ],
   "YearlyComeFollowMeStudyPlanUri": "/manual/come-follow-me-for-home-and-church-doctrine-and-covenants-2025",
   "YearlyComeFollowMeStudyPlanUrL": "https://cdn.churchofjesuschrist.org/mobile/gospelstudy/production/studyplans/v1/manual/come-follow-me-for-home-and-church-old-testament-2026.json",
@@ -25,87 +25,87 @@
     },
 
     {
-      "LastName": "Holland",
-      "FullName": "Jeffrey R. Holland",
-      "Image": "ms-appx:///Assets/Images/Holland.png",
-      "Index": 3
-    },
-
-    {
       "LastName": "Uchtdorf",
       "FullName": "Dieter F. Uchtdorf",
       "Image": "ms-appx:///Assets/Images/Uchtdorf.png",
-      "Index": 4
+      "Index": 3
     },
 
     {
       "LastName": "Bednar",
       "FullName": "David A. Bednar",
       "Image": "ms-appx:///Assets/Images/Bednar.png",
-      "Index": 5
+      "Index": 4
     },
 
     {
       "LastName": "Cook",
       "FullName": "Quentin L. Cook",
       "Image": "ms-appx:///Assets/Images/Cook.png",
-      "Index": 6
+      "Index": 5
     },
 
     {
       "LastName": "Christofferson",
       "FullName": "D. Todd Christofferson",
       "Image": "ms-appx:///Assets/Images/Christofferson.png",
-      "Index": 7
+      "Index": 6
     },
 
     {
       "LastName": "Andersen",
       "FullName": "Neil L. Andersen",
       "Image": "ms-appx:///Assets/Images/Andersen.png",
-      "Index": 8
+      "Index": 7
     },
 
     {
       "LastName": "Rasband",
       "FullName": "Ronald A. Rasband",
       "Image": "ms-appx:///Assets/Images/Rasband.png",
-      "Index": 9
+      "Index": 8
     },
 
     {
       "LastName": "Stevenson",
       "FullName": "Gary E. Stevenson",
       "Image": "ms-appx:///Assets/Images/Stevenson.png",
-      "Index": 10
+      "Index": 9
     },
 
     {
       "LastName": "Renlund",
       "FullName": "Dale G. Renlund",
       "Image": "ms-appx:///Assets/Images/Renlund.png",
-      "Index": 11
+      "Index": 10
     },
 
     {
       "LastName": "Gong",
       "FullName": "Gerrit W. Gong",
       "Image": "ms-appx:///Assets/Images/Gong.png",
-      "Index": 12
+      "Index": 11
     },
 
     {
       "LastName": "Soares",
       "FullName": "Ulisses Soares",
       "Image": "ms-appx:///Assets/Images/Soares.png",
-      "Index": 13
+      "Index": 12
     },
 
     {
       "LastName": "Caussé",
       "FullName": "Gérald Caussé",
       "Image": "ms-appx:///Assets/Images/Caussé.png",
-      "Index": 14
+      "Index": 13
+    },
+
+    {
+      "LastName": "Gilbert",
+      "FullName": "Clark G. Gilbert",
+      "Image": "ms-appx:///Assets/Images/Gilbert.png",
+      "Index": 13
     }
   ]
 }
